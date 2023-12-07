@@ -31,7 +31,7 @@ import com.example.lunchtray.ui.OrderViewModel
 @Composable
 fun LunchTrayApp() {
     // TODO: Create Controller and initialization
-
+/**
     // Create ViewModel
     val viewModel: OrderViewModel = viewModel()
 
@@ -44,4 +44,5 @@ fun LunchTrayApp() {
 
         // TODO: Navigation host
     }
+    */
 }
